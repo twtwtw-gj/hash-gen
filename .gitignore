@@ -1,0 +1,5 @@
+# package.json以外のmodule管理ファイルは不要
+node_modules/
+package-lock.json
+
+.vscode/
